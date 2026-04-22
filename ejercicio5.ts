@@ -1,0 +1,1 @@
+//5. Implementa una función que reciba un objeto de tipo Empleado (con nombre y salario) y retorne un mensaje indicando si su salario es alto o bajo.
