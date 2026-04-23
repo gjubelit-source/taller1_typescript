@@ -1,0 +1,1 @@
+//Crea una función genérica que reciba un arreglo de cualquier tipo y retorne el último elemento.
